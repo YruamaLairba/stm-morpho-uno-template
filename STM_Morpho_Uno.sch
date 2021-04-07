@@ -49,13 +49,13 @@ $EndComp
 $Comp
 L Connector:Conn_01x08_Female CN9
 U 1 1 60687881
-P 4500 3700
-F 0 "CN9" H 4528 3676 50  0000 L CNN
-F 1 "Conn_01x08_Female" H 4528 3585 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 4500 3700 50  0001 C CNN
-F 3 "~" H 4500 3700 50  0001 C CNN
-	1    4500 3700
-	-1   0    0    -1  
+P 4500 3800
+F 0 "CN9" H 4528 3776 50  0000 L CNN
+F 1 "Conn_01x08_Female" H 4528 3685 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 4500 3800 50  0001 C CNN
+F 3 "~" H 4500 3800 50  0001 C CNN
+	1    4500 3800
+	-1   0    0    1   
 $EndComp
 $Comp
 L Connector:Conn_01x08_Female CN6
@@ -71,13 +71,13 @@ $EndComp
 $Comp
 L Connector:Conn_01x10_Female CN5
 U 1 1 60689832
-P 4500 2750
-F 0 "CN5" H 4528 2726 50  0000 L CNN
-F 1 "Conn_01x10_Female" H 4528 2635 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical" H 4500 2750 50  0001 C CNN
-F 3 "~" H 4500 2750 50  0001 C CNN
-	1    4500 2750
-	-1   0    0    -1  
+P 4500 2850
+F 0 "CN5" H 4528 2826 50  0000 L CNN
+F 1 "Conn_01x10_Female" H 4528 2735 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical" H 4500 2850 50  0001 C CNN
+F 3 "~" H 4500 2850 50  0001 C CNN
+	1    4500 2850
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	2200 3600 2500 3600
